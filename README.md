@@ -1,3 +1,18 @@
+# NETFLIX CLONE
+
+This project is a simple netflix clone which outlines the netflix ui. The app uses -
+  1. TMDB api for curating the movie list.
+  2. react-youtube library for playing youttube trailers.
+  3. movie-trailer library for fetching the trailer URLs.
+  4. Firebase is used to deploy the application.
+  
+ ## Deployed URL
+ 
+ https://netflix-clone-db616.web.app/
+ 
+ 
+ --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
